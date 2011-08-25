@@ -1,0 +1,6 @@
+{
+    "name" : "sawmill",
+    "version" : "0.0.1",
+    "description" : "Log Aggregator",
+    "main" : "./index.js",
+}
